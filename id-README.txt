@@ -1,11 +1,3 @@
-See our project website for project information:  http://www.iodoom3.org/
-
-For instructions on migrating from Gitorious, see http://www.iodoom3.org/2013/migrated-to-github/.
-
-
-Original release details follow:
-
-
 Doom 3 GPL source release
 =========================
 
